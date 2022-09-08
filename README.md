@@ -1,12 +1,1 @@
-### bruhpate 
-
-We trust you have received the usual lecture from the local System Administrator. It usually boils down to these three things:
-
-#1) Respect the privacy of others.
-
-#2) Think before you type.
-
-#3) With great power comes great responsibility.
-
-Password:
-  
+![alt text](https://github.com/bruhpate/bruhpate/blob/main/5fa66423c18fcdf85af6c318d82bae08ad22.png?raw=true)
